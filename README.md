@@ -1,2 +1,4 @@
 # Welcome to my world! 
-![Grafico](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mfelipesoares}&theme=vue)
+
+![Gráfico](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mfelipesoares&theme=dracula)
+
