@@ -1,5 +1,12 @@
-# Welcome to my world! 
-![GIF](capa.gif)
+# Welcome to my world!
 
-![Gráfico](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mfelipesoares&theme=dracula)
+<div>
+  <img src="capa.gif" height=300px>
+</div>
+
+<div>
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfelipesoares&theme=dracula" height=260px>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mfelipesoares&theme=dracula" height=260px>
+</div>
 
