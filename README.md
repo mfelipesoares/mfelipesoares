@@ -2,7 +2,7 @@
 
 <div>
   <img src="capa.gif" height=300px>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mfelipesoares&theme=dracula" height=260px width=500px>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mfelipesoares&show_icons=true&theme=chartreuse-dark">
 </div>
 <div>
   <h2><b>Most used programming language 🤠</b></h2>
