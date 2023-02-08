@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=4000&pause=1000&color=17F700&width=450&height=55&lines=Welcome+to+my+world!)](https://git.io/typing-svg)
 
 <div>
-  <img align="center" src="capa.gif" height=350px>
-  <img align="left" height=230px src="https://github-readme-stats.vercel.app/api?username=mfelipesoares&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="capa.gif" height=300px>
+  <img align="left" height=200px src="https://github-readme-stats.vercel.app/api?username=mfelipesoares&show_icons=true&theme=chartreuse-dark">
 </div>
 <div>
   <h2><b>Most used programming language 🤠</b></h2>
