@@ -6,10 +6,10 @@
 </div>
 <div>
   <h2><b>Most used programming language 🤠</b></h2>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://camo.githubusercontent.com/c2d9a0aa0e9931d785a0ef490a10d82d4b6e54a4cfb5e3667f25ce4b34530b61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d474e5525323042617368266c6f676f436f6c6f723d677265656e">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 </div>
 <div>
     <h2><b>How to reach me 📡</b></h2>
