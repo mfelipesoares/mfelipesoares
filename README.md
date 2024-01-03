@@ -13,7 +13,7 @@
 </div>
 <div>
     <h2><b>How to reach me 📡</b></h2>
-    <ahref="https://www.linkedin.com/in/mfelipesoares/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'></a>
+    <a href="https://www.linkedin.com/in/mfelipesoares/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'></a>
   <a href="https://cursos.alura.com.br/vitrinedev/mfelipesoares" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev, meu portfólio na Alura"></a>
 </div>
 
